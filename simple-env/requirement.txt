@@ -1,0 +1,15 @@
+argcomplete==3.6.3
+certifi==2026.5.20
+charset-normalizer==3.4.7
+click==8.4.1
+colorama==0.4.6
+expandvars==1.1.2
+functional-notations==0.5.2
+idna==3.16
+kaze==0.0.15
+params_proto==2.13.2
+PyYAML==6.0.3
+requests==2.34.2
+termcolor==3.3.0
+urllib3==2.7.0
+waterbear==2.6.8
